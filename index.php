@@ -1,1 +1,2 @@
-kijijijij
+<? phpinfo()
+?>
